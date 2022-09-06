@@ -1,0 +1,85 @@
+body{
+background: rgb(249,178,178);
+background: radial-gradient(circle, rgba(249,178,178,1) 0%, rgba(134,196,138,1) 100%);
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.padrao th:hover{
+    background: rgb(252,132,132);
+    background: radial-gradient(circle, rgba(252,132,132,1) 0%, rgba(94,190,100,1) 100%);
+    font-size: 19px;
+}
+th{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+
+.cabecalho{
+    background: rgb(252,132,132);
+    background: radial-gradient(circle, rgba(252,132,132,1) 0%, rgba(94,190,100,1) 100%);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.escolha{
+    font-family: monospace;
+}
+
+#ved{
+    color: #183100;
+}
+
+#ver{
+    color: #882020;
+}
+
+
+.margem{
+    margin: 10px;
+}
+
+.padrao{
+     border-spacing: 2px;
+     padding: 0px;
+     width: 900px;
+     height: 100px;
+     text-align: center; 
+}
+
+.borda{
+    border: 2px solid white ;
+    border-radius: 30px;
+    margin: 15px;
+   text-align: center;
+}
+
+.subtitulo{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid white ;
+    border-radius: 30px;
+    margin: 5px;
+    padding: 5px;
+    width: 400px;
+}
+.subtitulo:hover{
+    text-align: center;
+    background: rgb(255,113,113);
+    background: radial-gradient(circle, rgba(255,113,113,1) 0%, rgba(94,190,100,1) 100%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a { 
+    color: inherit; 
+    text-decoration: none;
+} 
+
+.embaixo th:hover{
+        background: rgb(252,132,132);
+        background: radial-gradient(circle, rgba(252,132,132,1) 0%, rgba(94,190,100,1) 100%);
+        font-size: 19px;
+}
+
